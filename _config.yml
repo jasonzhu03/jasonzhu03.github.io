@@ -49,7 +49,7 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: work_experience
+      type: projects
     values:
       layout: module
   - scope:
