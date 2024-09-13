@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BU CS 506
+title: Jason Zhu : CS506
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
-author: Lance Galletti
+author: Jason Zhu
 url: 'https://jasonzhu03.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -27,16 +27,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Piazza:
-    - 'https://piazza.com/bu/fall2024/cs506a1'
-  Discord:
-    - 'https://discord.gg/UveZDdwsyn'
-  Course GitHub:
-    - 'https://github.com/gallettilance/CS506-Fall2024'
-  Course Medium:
-    - 'https://medium.com/@gallettilance/list/data-science-notes-6f89a235c9bf'
-  YouTube:
-    - 'https://youtube.com/@howithinkabout?feature=shared'
 footer_content:
 
 # Collections for website data
