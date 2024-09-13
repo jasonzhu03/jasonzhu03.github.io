@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jason Zhu CS506
+title: CS506 Jason Zhu
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Jason Zhu
@@ -31,34 +31,15 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
-  modules:
-  faq:
-  finalproject:
+  work_experience:
+  projects:
   assignments:
-  labs:
 
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
-      type: staffers
-    values:
-      layout: staffer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
       type: modules
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: faq
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: finalproject
     values:
       layout: module
   - scope:
@@ -68,7 +49,12 @@ defaults:
       layout: module
   - scope:
       path: ''
-      type: labs
+      type: work_experience
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: work_experience
     values:
       layout: module
 
