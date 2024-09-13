@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contacts
+title: Contacts
 description: Listing of contacts
 ---
 
-# Contacts
+# My Contacts
