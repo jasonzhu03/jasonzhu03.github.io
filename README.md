@@ -10,4 +10,4 @@ seo:
 
 # About Me
 
-Hi, my name is Jason Zhu.
+Hi, I'm Jason, a 20 year old student at BU, majoring in Computer Science and Statistics.
