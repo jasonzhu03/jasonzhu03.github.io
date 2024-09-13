@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jason Zhu : CS506
+title: Jason Zhu CS506
 tagline: Data Science Tools and Applications
 description: Course website for Boston University CS 506 - Data Science Tools and Applications
 author: Jason Zhu
