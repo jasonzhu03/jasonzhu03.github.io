@@ -3,7 +3,7 @@ title: Assignment 2
 ---
 
 <video width="600" controls>
-  <source src="./../../assets/videos/assignment2_demo_video.mov" type="video/mp4">
+  <source src="./../../assets/videos/K Means Clustering Animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
